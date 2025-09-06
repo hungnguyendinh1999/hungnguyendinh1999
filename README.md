@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Reinforcement Learning projects<br>👯 I’m looking to collaborate on fun educational projects <br>🤝 I’m looking for help with getting a job<br>🌱 I’m currently doing MS in AI at Northeastern University<br>💬 My hobbies are music and instruments, random fun facts, chess, and (cooking) food from all over the world!<br>⚡ Fun fact: I love roasts, especially roasting my friends
+🔭 I’m currently working on AWS cloud projects<br>👯 I’m looking to collaborate on fun educational projects <br>🤝 I’m looking for help with getting a job<br>🌱 I’m currently doing MS in AI at Northeastern University<br>💬 My hobbies are music and instruments, learning random fun facts, playing chess, and eating/cooking food from all over the world!<br>⚡ Fun fact: I love roasts, especially roasting my friends
 
 
 ## 🌐 Socials:
